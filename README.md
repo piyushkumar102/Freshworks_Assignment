@@ -1,6 +1,6 @@
-# Freshworks_Backend
+# Freshworks_Assignment
 
-Backend assignement to create a key-value data store
+Assignement to create a key-value data store
 
 Language: Python Version: 3.6
 
@@ -23,4 +23,5 @@ delete(key)
 Database(name[,location])
 
 WorkFlow:
-Database.py and __init__.py are file of the package created. Main_File is an example that import the Database package.
+Database.py and __init__.py are file of the package created. 
+main.py is used to run the Program
